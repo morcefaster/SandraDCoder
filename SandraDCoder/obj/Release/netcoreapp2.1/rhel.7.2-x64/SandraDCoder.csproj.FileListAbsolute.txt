@@ -1,0 +1,10 @@
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.csprojAssemblyReference.cache
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.AssemblyInfoInputs.cache
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.AssemblyInfo.cs
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.deps.json
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.runtimeconfig.json
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.runtimeconfig.dev.json
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.dll
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.pdb
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.dll
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Release\netcoreapp2.1\rhel.7.2-x64\SandraDCoder.pdb

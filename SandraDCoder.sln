@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandraDCoder", "SandraDCoder\SandraDCoder.csproj", "{2C91896A-15B5-4049-923E-853CBFCD5C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C91896A-15B5-4049-923E-853CBFCD5C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C91896A-15B5-4049-923E-853CBFCD5C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C91896A-15B5-4049-923E-853CBFCD5C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C91896A-15B5-4049-923E-853CBFCD5C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C19DEA-48F6-4D5F-97E5-B0FA905A6605}
+	EndGlobalSection
+EndGlobal

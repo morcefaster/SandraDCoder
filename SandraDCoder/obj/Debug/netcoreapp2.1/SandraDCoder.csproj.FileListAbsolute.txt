@@ -1,0 +1,10 @@
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Debug\netcoreapp2.1\SandraDCoder.csprojAssemblyReference.cache
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Debug\netcoreapp2.1\SandraDCoder.AssemblyInfoInputs.cache
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Debug\netcoreapp2.1\SandraDCoder.AssemblyInfo.cs
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Debug\netcoreapp2.1\SandraDCoder.deps.json
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Debug\netcoreapp2.1\SandraDCoder.runtimeconfig.json
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Debug\netcoreapp2.1\SandraDCoder.runtimeconfig.dev.json
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Debug\netcoreapp2.1\SandraDCoder.dll
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\bin\Debug\netcoreapp2.1\SandraDCoder.pdb
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Debug\netcoreapp2.1\SandraDCoder.dll
+G:\Projects\Lambda\SandraDCoder\SandraDCoder\obj\Debug\netcoreapp2.1\SandraDCoder.pdb
